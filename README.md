@@ -1,4 +1,4 @@
-# Notes
+﻿# Notes
 ## Main purpose
 **保护人质，介于FPS与RTS的视角，越过障碍达到目的地**
 ## The way to play
@@ -23,7 +23,7 @@
 > 4. 血条系统(所有生物)
 
 ## 地图设计：
-> 1. 待定
+> 1. 待定 
 
 unity version: 2017.3.1
 
